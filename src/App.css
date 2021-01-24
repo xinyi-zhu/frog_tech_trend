@@ -31,7 +31,7 @@ reset.App {
 
 .contentView{
   width: 100vw;
-  height: 110vh;
+  height: 100vh;
   flex-direction: column;
 
   display: flex;
@@ -154,7 +154,7 @@ reset.App {
   width: auto;
   height: auto;
   position: absolute;
-  bottom: 50px;
+  bottom: 30px;
   right: 190px;
 
 }
