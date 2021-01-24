@@ -496,7 +496,7 @@ class App extends React.Component {
         <div  className='contentView' ref={rootRef} >
 
           <div className='viewbg'>
-              <video src="./media/WorkReel_BG.mp4" autoPlay="autoPlay" loop="loop"  muted="muted"  style={{width:'150%',height:'100%',paddingLeft:0,left:0}} >
+              <video src="./media/WorkReel_BG.mp4" autoPlay="autoPlay" loop="loop"  muted="muted"  style={{width:'120%',height:'120%',paddingLeft:0,left:0}} >
 
               </video>
 
